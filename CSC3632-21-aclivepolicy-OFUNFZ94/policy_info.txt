@@ -1,0 +1,7 @@
+
+If ZFJB is True, then P evaluates to Permit;
+else if ZFJB is Unknown, then P evaluates to Indeterminate(PD);
+else if both XMUA and FXSC are True, then P evaluates to Permit;
+otherwise P evaluates to Deny. 
+
+The address for the script is: http://10.0.0.6/ctf_deploy/aclivepolicy/Mc0V8WK5YD/A.php
